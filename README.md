@@ -5,5 +5,5 @@ Atualmente estou em transição de carreira.
 Estou estudando assuntos voltados para:
 
 🔭 Lógica da Programação
-🔭 JavaScript
-🔭 HTML5 e CSS3
+🔭 Java
+🔭 MySQL - PL/SQL
